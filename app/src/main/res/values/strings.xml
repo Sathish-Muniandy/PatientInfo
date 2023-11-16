@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BrightBridge</string>
+    <string name="id">Patient Id:</string>
+    <string name="name">Patient Name</string>
+    <string name="age">Patient Age</string>
+    <string name="location">Patient Location</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
